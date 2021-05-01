@@ -10,4 +10,4 @@ The first files with numbers in their names are the chapters from Learnyouahaske
 
 The rest of the files are exercises from my university labs.
 
-[I'm an inline-style link](https://www.google.com)
+[Learnyouahaskell.com](http://learnyouahaskell.com/chapters) 
